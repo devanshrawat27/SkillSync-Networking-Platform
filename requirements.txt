@@ -1,0 +1,17 @@
+# SkillSync local setup requirements
+# Note: This is a React + Vite project, so app dependencies are installed from package.json.
+# This file is only a quick local setup reference for anyone running the project manually.
+
+Node.js >= 18
+npm >= 9
+
+Required environment variables in .env:
+VITE_SUPABASE_URL=your_supabase_url
+VITE_SUPABASE_PUBLISHABLE_KEY=your_supabase_publishable_key
+
+Local run steps:
+1. npm install
+2. npm run dev
+
+Default local URL:
+http://localhost:8080
