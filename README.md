@@ -122,20 +122,6 @@ App runs at `http://localhost:8080`
 
 ---
 
-## 🛣️ Roadmap
-
-- [x] Student profile system
-- [x] Skill-based user discovery
-- [x] Connection request flow
-- [x] Real-time messaging
-- [x] In-app notifications
-- [x] Project feeds & team joining
-- [ ] AI-powered teammate recommendations
-- [ ] GitHub integration for skill auto-detection
-- [ ] Hackathon listing board
-- [ ] Mobile app
-
----
 
 ## 👨‍💻 Built by
 
