@@ -5,11 +5,10 @@
 <br/>
 
 [![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)](https://tanstack.com/query)
+
 
 <br/>
 
@@ -48,7 +47,7 @@ SkillSync is a **full-stack student networking and collaboration platform** — 
 
 | Layer | Technologies |
 |-------|-------------|
-| **Frontend** | React 18 · TypeScript · Vite · Tailwind CSS · React Router DOM |
+| **Frontend** | React 18 · Vite · Tailwind CSS · React Router DOM |
 | **UI & Components** | shadcn/ui · Radix UI · Framer Motion · Lucide React |
 | **Forms & Validation** | React Hook Form · Zod |
 | **State & Data** | TanStack React Query |
